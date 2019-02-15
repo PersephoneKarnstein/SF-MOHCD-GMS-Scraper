@@ -5,3 +5,5 @@ When I worked at the SF LGBT Center, we needed to mass upload our clients' info 
 In order to make the possibility of mis-identifying/conflating two profiles with the same name, in addition to the ID number the scraper also pulls the date of birth (and with one or two extra lines, can also grab the SSN) of each person. Finally, it dumps the data it's gathered on every person in GMS into a massive Excel document called "foo.xlsx" where it can be compared against the extant list of participants. In the associated Excel tracker, this is done automatically.
 
 This was my first real use of the TkInter GUI builder module, as I usually just work in the terminal window but none of my co-workers would have been comfortable doing the same.
+
+Unfortunately I was not able to take the Excel tracker with me when I left the LGBT Center due to the personal information contained on it, so this program will have to stand alone for the time being.
